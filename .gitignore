@@ -1,0 +1,16 @@
+# Environment
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# SQLite database
+*.sqlite
+
+# Gmail credentials & tokens
+credentials.json
+token.json
+
+# Virtual environment
+venv/
